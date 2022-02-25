@@ -1,2 +1,0 @@
-# BEE
-Bsic Entreprenuership
